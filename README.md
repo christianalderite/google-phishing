@@ -14,7 +14,7 @@ Hello! In order to setup your own copy of this phi/shing site in your own local 
 
 ![image](https://user-images.githubusercontent.com/38313687/199955353-5776c334-217f-4cc8-98a9-ed982501fcf6.png)
 
-5. Visit this link from your computer: http://localhost/drive/signin/
+5. Visit this link from your computer: http://localhost/google-phishing/signin/
 
 Optional steps:
 
@@ -42,7 +42,7 @@ Open the command prompt in the unzipped folder by typing "cmd" in the address ba
 
   ngrok http 80
 
-11. Copy the link that was generated and add /drive/signin. Paste it into your browser address bar and now you have a working Phis/hing site.
+11. Copy the link that was generated and add /google-phishing/signin. Paste it into your browser address bar and now you have a working Phis/hing site.
 
 ![image](https://user-images.githubusercontent.com/38313687/199957759-9418aef8-7a79-4083-bc3b-3e12eb854384.png)
 
