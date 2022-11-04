@@ -36,11 +36,11 @@ Open the command prompt in the unzipped folder by typing "cmd" in the address ba
 
 9. Once done, run this command in the command prompt to register the auth token you just recieved: 
 
-ngrok config add-authtoken [your-auth-token]
+  ngrok config add-authtoken [your-auth-token]
 
 10. Type in the command prompt:
 
-ngrok http 80
+  ngrok http 80
 
 11. Copy the link that was generated and add /drive/signin. Paste it into your browser address bar and now you have a working Phis/hing site.
 
