@@ -18,9 +18,11 @@ Hello! In order to setup your own copy of this phi/shing site in your own local 
 
 Optional steps:
 
-6. If you wanna share it with the world, download ngrok from here: https://ngrok.com/ It will just download a ZIP containing an .exe file. No need to install.
+6. If you wanna share it with the world, download ngrok ZIP file from here: https://ngrok.com/download
+It will just download a ZIP containing an .exe file. No need to install.
 
-7. You need to create an account in order to use this, if you have no account it won't work properly. You can easily sign-up using your google account.
+7. You need to create an account in order to use this, if you have no account it won't work properly. 
+You can easily sign-up here: https://ngrok.com/ using your google account.
 
 ![image](https://user-images.githubusercontent.com/38313687/199956322-b40dc94a-3607-45a7-8875-28a74ef4735a.png)
 
@@ -40,7 +42,7 @@ ngrok config add-authtoken [your-auth-token]
 
 ngrok http 80
 
-11. Visit the link that was generated:
+11. Copy the link that was generated and add /drive/signin. Paste it into your browser address bar and now you have a working Phis/hing site.
 
 ![image](https://user-images.githubusercontent.com/38313687/199957759-9418aef8-7a79-4083-bc3b-3e12eb854384.png)
 
